@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">third</string>
+    <string name="title_activity_next">next</string>
+    <string name="title">name</string>
+    <string name="description">description</string>
+    <string name="review">review</string>
+</resources>
